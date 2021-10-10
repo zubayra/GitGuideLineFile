@@ -1,0 +1,8 @@
+This is first connection with github.
+This text is your local (*One project has one unique remote repository)
+
+1.git init  (Help you crete a remote respository)
+2.git add .  (Add files or anything you need to commit)
+3git commit -m"Message for this specific commit" 
+(The message part will be shown in your remote repository to let yo know wht you did)
+4.git push   (Help yo push/ send/ store your local to remote repository)
